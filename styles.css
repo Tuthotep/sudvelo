@@ -1,0 +1,189 @@
+/*  
+
+p {
+  font-size: large;
+  }
+
+#557153
+#7D8F69
+#A9AF7E
+#E6E5A3
+*/
+
+/*=============================== 
+Estilos generales de todo el sitio
+===============================*/
+
+html{
+    background-color: #a9af7e;
+  } 
+
+#page {
+  background-color: #a9af7e;
+  }
+
+#top {
+  background-color: #557153;
+  }
+
+  #main {
+    background-color: #a9af7e;   
+    
+  }
+
+
+  #footer {
+    background-color: #7D8F69;
+    font-size: small;
+    
+  }
+
+
+  .topmenu a:link, a:visited {
+    background-color: #557153;
+    color: #a9af7e;
+    text-decoration: none;
+        
+  }
+  
+  h3 {
+    font-family: Fugaz one ;
+
+  }
+
+  .topmenu a:hover, a:active {
+    background-color: #557154;
+    color: white;
+  }
+
+
+.route-icon img {
+
+    height: 30px;
+    width: 30px;
+    padding: 2px;
+  }
+
+
+.route-list .item .route-icon {
+    padding: 0;
+    margin-right: 10px;
+  }
+
+
+
+.col-auto {
+    flex: 0 0 auto;
+    width: auto;
+    max-width: 100%;
+}
+
+
+.route-list .item {
+    margin-bottom: 4px;
+    padding: 8px;
+    color: #000;
+    background: #fff;
+    border-radius: 6px;
+    margin-left: -5px;
+    margin-right: -5px;
+  }
+
+/*
+.route-list .item .route-name .color-bar {
+    position: absolute;
+    top: 0;
+    width: 40%;
+    height: 5px;
+    border-radius: 2px;
+  }
+*/
+
+.item {
+background-color: #a9af7e;
+border-radius: 10px;
+margin: 4px;
+  }
+
+.color-bar {
+  height: 5px;
+  border-radius: 2px;
+  
+  
+  }
+
+/* Carousel base class */
+.carousel {
+    margin-bottom: 1rem;
+    height: 330px;
+  }
+  /* Since positioning the image, we need to help out the caption */
+  .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+  
+  /* Declare heights because of positioning of img element */
+  .carousel-item {
+    height: 25rem;
+  }
+  
+  .carousel-inner {
+    height: 330px;
+  }
+
+
+  banner_var {
+    height: 120px;
+    width: 600px;
+
+  }
+
+  #svlogotop {
+
+    height: 100px;
+    margin-bottom: 70px;
+  }
+
+  #svlogofot {
+
+    height: 75px;
+    margin-bottom: 60px;
+  }
+
+  #slogan {
+
+    font-family:fantasy;
+    font-weight: bold;
+    font-size: 30px ;
+    color: whitesmoke;
+  }
+
+  
+  .topmenu {
+
+    
+    font-size: larger;
+    font-style: oblique;
+
+  }
+
+  .post-content .fa {
+    color: #ddd;
+  }
+
+.post-content a h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 0px;
+  }
+
+#sel_pais,#sel_velorute {
+  border:dimgrey;
+  border-style: double;
+
+  }
+
+.cartelruta {
+  width: 100px;
+  }
