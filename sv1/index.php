@@ -15,6 +15,11 @@
 
       <div class="row ">
 
+      <div class="col-2 border border-dark-subtle">
+
+</div>
+
+
         <div class="col-8 border border-dark-subtle">
             <div class="row">
               <div class="col-md-auto">
@@ -125,7 +130,7 @@
         </div>
         
                 
-        <div class="col-4 border border-dark-subtle">
+        <div class="col-2 border border-dark-subtle">
 
         </div>
 
