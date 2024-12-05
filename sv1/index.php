@@ -30,7 +30,7 @@
                 <img class="float-end cartelruta" src="../img/rutas/csv1.png">
               </div>
             </div>
-            
+            <div class="color-bar" style="background-color:blue"></div>
             <p class="lh-base mx-5">
               La "Ruta Andina", SudVelo Ruta nº1 (SV1) la primera ruta con la que nace el proyecto, como su nombre indica, transcurre por el lado oriental de la cordillera de los Andes, desde Rio Gallegos - Argentina , hasta Barranquilla - Colombia.
             
@@ -72,7 +72,6 @@
                 <li>Argentina</li>
                   <ul>
                     <li>Santa Cruz</li>
-                    <div class="callout">Santa Cruz, ciudad, por la Nº40.</div>
                     <li>Chubut</li>
                     <li>Rio Negro</li>
                     <li>Neuquén</li>

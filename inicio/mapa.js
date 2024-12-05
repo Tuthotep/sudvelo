@@ -106,39 +106,36 @@ const csvr1a = L.marker([-51.630913, -69.22562], {icon:flagaz}).addTo (isvr1)
     
     .bindPopup('<b>Cab.R1</b>').openPopup();
 
-const csvr1b = L.marker([11.039094, -74.826931],{icon: flagaz}).addTo (isvr1) 
+const csvr1b = L.marker([11.038863, -74.826944],{icon: flagaz}).addTo (isvr1) 
     .bindPopup('<b>Cab.R1</b>').openPopup();   
 
 //SVR2
-const csvr2a = L.marker([-34.972739, -54.951894], {icon:flagve}).addTo (isvr2)
-    .bindPopup('<b>Cab.R2</b>').openPopup();
+//const csvr2a = L.marker([-34.403633, -53.842964], {icon:flagve}).addTo (isvr2)
+//    .bindPopup('<b>Cab.R2</b>').openPopup();
 
-const csvr2b = L.marker([-33.043175, -71.605404],{icon: flagve}).addTo (isvr2) 
-    .bindPopup('<b>Cab.R2</b>').openPopup();   
+//const csvr2b = L.marker([-34.383312, -53.844054],{icon: flagve}).addTo (isvr2) 
+//    .bindPopup('<b>Cab.R2</b>').openPopup();   
 
 //SVR3
-const csvr3a = L.marker([-34.972739, -54.951894], {icon:flagam}).addTo (isvr3)
-    
+const csvr3a = L.marker([-51.632289, -69.226316], {icon:flagam}).addTo (isvr3)
 .bindPopup('<b>Cab.R3</b>').openPopup();
 
-const csvr3b = L.marker([-1.422702, -48.45022],{icon: flagam}).addTo (isvr3) 
+const csvr3b = L.marker([11.03912, -74.826711],{icon: flagam}).addTo (isvr3) 
 .bindPopup('<b>Cab.R3</b>').openPopup();   
 
 //SVR4
-const csvr4a = L.marker([-23.539633, -46.728656], {icon:flagro}).addTo (isvr4)
-    
-.bindPopup('<b>Cab.R4</b>').openPopup();
+//const csvr4a = L.marker([-23.539633, -46.728656], {icon:flagro}).addTo (isvr4)
+//.bindPopup('<b>Cab.R4</b>').openPopup();
 
-const csvr4b = L.marker([-12.039901, -76.99755],{icon: flagro}).addTo (isvr4) 
-.bindPopup('<b>Cab.R4</b>').openPopup();   
+//const csvr4b = L.marker([-12.039901, -76.99755],{icon: flagro}).addTo (isvr4) 
+//.bindPopup('<b>Cab.R4</b>').openPopup();   
 
 //SVR5
-const csvr5a = L.marker([-51.630913, -69.22562], {icon:flagne}).addTo (isvr5)
-    
-.bindPopup('<b>Cab.R5</b>').openPopup();
+//const csvr5a = L.marker([-51.630913, -69.22562], {icon:flagne}).addTo (isvr5)
+//.bindPopup('<b>Cab.R5</b>').openPopup();
 
-const csvr5b = L.marker([11.039094, -74.826931],{icon: flagne}).addTo (isvr5) 
-.bindPopup('<b>Cab.R5</b>').openPopup();   
+//const csvr5b = L.marker([11.039094, -74.826931],{icon: flagne}).addTo (isvr5) 
+//.bindPopup('<b>Cab.R5</b>').openPopup();   
 
 // track ruta sudvelo 1  bolivia
 var svr1b = [
@@ -4830,7 +4827,7 @@ var  = L.marker([], {
 }).addTo(map).bindPopup('');
 */
 
-var elbolson = L.marker([-41.967184, -71.536181], {
+/*var elbolson = L.marker([-41.967184, -71.536181], {
     icon: iconaz
 }).addTo(map).bindPopup('CV1');
 
@@ -4840,7 +4837,8 @@ var rgallegos = L.marker([-51.630913, -69.22562], {
 
 
 //el bolson [-41.967184, -71.536181],
-    /*
+*/
+/*
 
     */
 

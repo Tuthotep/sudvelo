@@ -22,7 +22,7 @@
         </div>
         <div class="col route-name">
             <div class="color-bar" style="background-color:green"></div>
-            <span>Ruta Inca</span>
+            <span>Ruta Pampeana</span>
         </div>
     </a>
     <a href="../sv3/" class="item row route-3" data-route-id="3">
@@ -30,8 +30,8 @@
             <img class="img-fluid" src="../img/rutas/csv3.png" loading="lazy" alt="sv-3">
         </div>
         <div class="col route-name">
-            <div class="color-bar" style="background-color:yellow"></div>
-            <span>Ruta Libertadora</span>
+            <div class="color-bar" style="background-color:black"></div>
+            <span>Ruta Atlántica</span>
         </div>
     </a>
     <a href="../sv4/" class="item row route-4" data-route-id="4">
@@ -48,7 +48,7 @@
             <img class="img-fluid" src="../img/rutas/csv5.png" loading="lazy" alt="sv-5">
         </div>
         <div class="col route-name">
-            <div class="color-bar" style="background-color:black"></div>
+            <div class="color-bar" style="background-color:yellow"></div>
             <span>Ruta Selv&aacute;tica</span>
         </div>
     </a>             
