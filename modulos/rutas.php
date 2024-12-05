@@ -43,6 +43,7 @@
             <span>Ruta Norte&ntilde;a</span>
         </div>
     </a>
+    <!-- 
     <a href="../sv5/" class="item row route-5" data-route-id="5">
         <div class="col-auto route-icon">
             <img class="img-fluid" src="../img/rutas/csv5.png" loading="lazy" alt="sv-5">
@@ -51,7 +52,8 @@
             <div class="color-bar" style="background-color:yellow"></div>
             <span>Ruta Selv&aacute;tica</span>
         </div>
-    </a>             
+    </a>   
+    -->          
 
   </div>
 </div>

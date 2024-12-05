@@ -95,7 +95,7 @@ const map = L.map('map', {
     minZoom: 2,
     maxZoom: 25,    
     zoom: 3,  
-    layers: [isvr1, isvr2, isvr3, isvr4, isvr5, ocm]
+    layers: [isvr1, isvr2, isvr3, isvr4, ocm]
 });
 
 
@@ -4197,8 +4197,8 @@ var svr2 = [
         color: 'green'
     }).addTo (isvr2);
 
-// track ruta sudvelo 3
-var svr3 = [
+// track ruta sudvelo 5
+var svr5 = [
     //.uy
     [-34.972739, -54.951894],
     //.br
@@ -4774,9 +4774,9 @@ var svr3 = [
     [-1.422702, -48.45022]
     ];
     
-    var svr3tr = L.polyline(svr3, {
+    var svr5tr = L.polyline(svr5, {
         color: 'yellow'
-    }).addTo (isvr3);
+    }).addTo (isvr5);
 
 
 // track ruta sudvelo 4 
@@ -4795,7 +4795,7 @@ var svr4 = [
 
 
 // track ruta sudvelo 5 
-var svr5 = [
+var svr3 = [
 [-51.630913, -69.22562],
 [-34.60344, -58.381422],
 [-23.539873, -46.728636],
@@ -4811,9 +4811,9 @@ var svr5 = [
 [11.039094, -74.826931]
 ];
 
-var svr5tr = L.polyline(svr5, {
+var svr3tr = L.polyline(svr3, {
     color: 'black'
-}).addTo (isvr5);
+}).addTo (isvr3);
 
 
 //Ciudades y pueblos de la SRV1
@@ -4973,7 +4973,7 @@ var overmaps= {
     'SV-Ruta 2': isvr2,
     'SV-Ruta 3': isvr3,
     'SV-Ruta 4': isvr4,
-    'SV-Ruta 5': isvr5
+ //   'SV-Ruta 5': isvr5
 };
 
 var layerControl = L.control.layers (basemaps, overmaps).addTo(map);
