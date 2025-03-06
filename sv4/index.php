@@ -30,30 +30,18 @@
               </div>
             </div>
             <div class="color-bar" style="background-color:red"></div>
-
+            <br>
            <p class="lh-base mx-5">
                 La "Ruta Norteña", SudVelo Ruta nº4 (sv4), cruza el continente de Oeste a Este,  desde 
                 Brazil, arrancando en Porto Alegre,hasta Bolivia, la ciudad de Oruro, 
                 donde enlaza con la ruta Andina (SV1).
-                <br>
-            </p>
-
+           </p>
+           <br>
             <b>
                 NOTA: Esta ruta hace uso de túneles y ferries.
             </b>
             <br>
-            <b class="font-monospace">
-                Leyenda del mapa:
-                <div class="container text-center">
-                    <div class="row row-cols-5">
-                      <div class="col">Ruta Certificada</div>
-                      <div class="col">Ruta Señalizada</div>
-                      <div class="col">Ruta Desarrollada</div>
-                      <div class="col">Ruta en desarrollo</div>
-                      <div class="col">Ruta en fase de diseño</div>
-                    </div>
-                  </div>
-            </b>
+
             
             <h3 class="mt-3">Recorrido</h3>
 

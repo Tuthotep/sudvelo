@@ -29,34 +29,24 @@
               </div>
             </div>
             <div class="color-bar" style="background-color:green"></div>
-
+            <br>
            <p class="lh-base mx-5">
                 La "Ruta Pampeana", SudVelo Ruta nº2 (SV2), cruza el continente de Oeste a Este,  desde Uruguay, arrancando en Maldonado, hasta Chile, terminando en Valparaíso, y cruzando toda la Argentina, subiendo al paso del Cristo Redentor, en Mendoza, para entrar en Chile.
-                <br>
             </p>
-
+            <br>
+            
             <b>
                 NOTA: Esta ruta hace uso de túneles y ferries.
             </b>
             <br>
-            <b class="font-monospace">
-                Leyenda del mapa:
-                <div class="container text-center">
-                    <div class="row row-cols-5">
-                      <div class="col">Ruta Certificada</div>
-                      <div class="col">Ruta Señalizada</div>
-                      <div class="col">Ruta Desarrollada</div>
-                      <div class="col">Ruta en desarrollo</div>
-                      <div class="col">Ruta en fase de diseño</div>
-                    </div>
-                  </div>
-            </b>
+            
             
             <h3 class="mt-3">Recorrido</h3>
 
             <ul>
                 <li>Uruguay</li>
                     <ul>
+                        <li>Rocha</li>
                         <li>Maldonado</li>
                         <li>Canelones</li>
                         <li>Montevideo</li>
@@ -69,8 +59,6 @@
                     <ul>
                         <li>Entre Ríos</li>
                         <li>Buenos Aires</li>
-                        <li>CABA</li>
-                        <li>Santa Fé</li>
                         <li>Córdoba</li>
                         <li>San Luis</li>
                         <li>Mendoza</li>

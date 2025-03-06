@@ -31,6 +31,7 @@
               </div>
             </div>
             <div class="color-bar" style="background-color:blue"></div>
+            <br>
             <p class="lh-base mx-5">
               La "Ruta Andina", SudVelo Ruta nº1 (SV1) la primera ruta con la que nace el proyecto, como su nombre indica, transcurre por el lado oriental de la cordillera de los Andes, desde Rio Gallegos - Argentina , hasta Barranquilla - Colombia.
             
@@ -66,6 +67,11 @@
              
              Recorrer la rutas SudVelo, es una experiencia inolvidable para los amantes de la aventura y el ciclismo. La diversidad de paisajes y la oportunidad de sumergirse en la vasta belleza de Argentina hacen de esta travesía una elección emocionante para aquellos que buscan un desafío en dos ruedas. ¡Prepárate para un viaje lleno de descubrimientos y adrenalina!
             </p>
+            <br>
+            <b>
+                NOTA: Esta ruta hace uso de túneles y ferries.
+            </b>
+            <br>
             <h3 class="mt-3">Recorrido</h3>
             <p class="lh-base mx-5">
               <ul>
