@@ -1,2 +1,2 @@
-# sudvelo
+# SudVelo
 SudVelo - Red Cicloturista SudAmericana
